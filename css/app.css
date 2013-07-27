@@ -1,0 +1,19 @@
+.nav {
+    padding-top: 32px;
+    text-align: right;
+    line-height: 200%;
+}
+
+.nav li {
+    list-style: none;
+    display: inline;
+}
+
+.top {
+    margin-left: 15px;
+    padding-bottom: 20px;
+}
+
+.bottom a {
+    color: #4d83ad;
+}
